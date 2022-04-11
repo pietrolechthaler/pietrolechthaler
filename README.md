@@ -7,7 +7,7 @@
   <img align="left" alt="Pietro's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://giphy.com/gifs/andrea-ben-hacker-3oriNLx3dUqFgVi86I" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" />
 
 ### Hi there, I'm Pietro Lechthaler
 - 💻 IT Engineering student at University of Trento
