@@ -10,5 +10,5 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif" />
 
 ### Hi there, I'm Pietro Lechthaler
-- Master’s student in Information Engineering at University of Trento
+- Master’s student in Computer Engineering at University of Trento
 - I'm currently working on [SUMO](https://sumo.dlr.de/docs/Tutorials/index.html) and [ComNetsEmu](https://github.com/stevelorenz/comnetsemu)
