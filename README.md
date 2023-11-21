@@ -11,4 +11,4 @@
 
 ### Hi there, I'm Pietro Lechthaler
 - Master’s student in Computer Engineering at University of Trento
-- I'm currently working on [SUMO](https://sumo.dlr.de/docs/Tutorials/index.html) and [ComNetsEmu](https://github.com/stevelorenz/comnetsemu)
+- I'm currently working on [Flash Minds](#) and [GPT-4 API]([https://github.com/stevelorenz/comnetsemu](https://openai.com/blog/gpt-4-api-general-availability)https://openai.com/blog/gpt-4-api-general-availability)
