@@ -4,3 +4,5 @@ I am a Master’s student in Information Engineering at University of Trento, fo
 
 - Visit my [Linkedin Profile](https://www.linkedin.com/in/pietrolechthaler/) for more information and to get in touch
 - I'm currently working on [Flash Minds Bot](https://github.com/pietrolechthaler/) using [GPT-4 API](https://openai.com/blog/gpt-4-api-general-availability)
+
+![](https://komarev.com/ghpvc/?username=pietrolechthaler)
